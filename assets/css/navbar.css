@@ -46,10 +46,6 @@
   font-weight: 800;
 }
 
-.navbar_brand a span {
-  color: #05dc0e;
-}
-
 .sidenav {
   height: calc(100% - 6.3rem); /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
@@ -107,7 +103,6 @@
 }
 
 .active {
-  color: #05dc0e;
   transform: rotate(180deg);
 }
 @media screen and (min-width: 1200px) {
